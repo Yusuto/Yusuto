@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yusuto, also known as Justus!
-- I’m ***gAaaAaAy***.
+- 👋 Hi, I’m @Yusuto, also known as DrowsyShroomy
+- I’m also ***gAaaAaAy***
 
 <!---
 Yusuto/Yusuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
